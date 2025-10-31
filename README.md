@@ -46,8 +46,3 @@ This project was completed as part of the Coursera course
 ➡️ [Data Analysis in Python using Pandas DataFrames](https://www.coursera.org/learn/data-analysis-in-python-using-pandas-dataframes)
 
 ---
-
-### 🏁 How to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/<your-username>/movie-data-analysis-using-pandas.git
